@@ -1,0 +1,6 @@
+PIP libraries: import folium
+		   import pandas
+
+Excel file 'data.xlsx'
+
+JSON file:- india_status
