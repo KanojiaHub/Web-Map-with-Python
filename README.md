@@ -1,8 +1,5 @@
 # Web-Map-with-Python
 
-Memory updated
-Here’s a sample README file for your GitHub project:
-
 Web Map of IIT Locations
 This project is a Python-based web application that visualizes various IIT (Indian Institutes of Technology) locations on an interactive map. The map uses data stored in JSON and Excel files to coordinate and plot the locations of different IIT campuses across India.
 
